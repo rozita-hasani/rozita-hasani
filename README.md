@@ -1,6 +1,6 @@
 # Hi there, I'm Rozita Hasani 👋
 
-### 💻 Junior Front-End Developer | 1.5 Years of Experience
+### 💻 Junior Front-End Developer
 
 I'm a passionate Front-End Developer with a strong background in building responsive and user-friendly web applications. I have experience working with JavaScript, TypeScript, and React, and I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
