@@ -12,12 +12,6 @@ I'm a passionate Front-End Developer with a strong background in building respon
 - **Methodologies:** Agile, Scrum, Gitflow
 - **Design:** UI/UX, Responsive Design, PWA
 
-### 📚 What I'm Working On
-
-- Migrating JavaScript applications to TypeScript for better type safety and maintainability.
-- Enhancing UI/UX for web applications using Material UI and Tailwind CSS.
-- Building dynamic and interactive web applications with React and Vue.js.
-
 ### 🌟 Open Source Projects
 
 - **[Adatyar](https://github.com/rozita-hasani/adatyar):** A habit tracker **mobile web application** that helps you create and track your habits. Built with a focus on simplicity and user experience, Adatyar allows users to set goals, monitor progress, and build healthy routines.
