@@ -31,7 +31,7 @@ I'm a passionate Front-End Developer with a strong background in building respon
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rozita-hasani)
-- [Email](mailto:rozita.hasani74@gmail.com)
+- [Email](mailto:rozita.hasani.work@gmail.com)
 
 ---
 
