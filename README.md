@@ -12,14 +12,9 @@ I'm a passionate Front-End Developer with a strong background in building respon
 - **Methodologies:** Agile, Scrum, Gitflow
 - **Design:** UI/UX, Responsive Design, PWA
 
-### 🌟 Open Source Projects
-
-- **[Adatyar](https://github.com/rozita-hasani/adatyar):** A habit tracker **mobile web application** that helps you create and track your habits. Built with a focus on simplicity and user experience, Adatyar allows users to set goals, monitor progress, and build healthy routines.
-
-- **[Teamwize](https://github.com/teamwize/panel-app):** An open-source vacation tracker and leave management system designed for small companies. Teamwize simplifies the process of managing employee time off, ensuring smooth operations and clear communication within teams.
-
 ### 🌱 What I'm Learning
 
+- Starting my journey with Next.js to build modern, server-side rendered, and SEO-friendly web applications.
 - Diving deeper into TypeScript for more robust and scalable code.
 - Exploring advanced React patterns and state management techniques.
 - Improving my skills in backend integration and API development.
