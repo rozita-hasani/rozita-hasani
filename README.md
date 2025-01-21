@@ -1,13 +1,13 @@
 # Hi there, I'm Rozita Hasani 👋
 
-### 💻 Junior Front-End Developer
+### 💻 Frontend Developer
 
-I'm a passionate Front-End Developer with a strong background in building responsive and user-friendly web applications. I have experience working with JavaScript, TypeScript, and React, and I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate Frontend Developer with a strong background in building responsive and user-friendly web applications. I have experience working with JavaScript, TypeScript, Next.js, and React, and I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ### 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Vue.js, Material UI, Tailwind CSS, MapLibre, Shadcn/UI
+- **Languages and Markups:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries:** React, Next.js, Vue.js, Material UI, Tailwind CSS, MapLibre, Shadcn/UI
 - **Tools:** Git, GitHub, GitLab, WebStorm, VS Code
 - **Methodologies:** Agile, Scrum, Gitflow
 - **Design:** UI/UX, Responsive Design, PWA
