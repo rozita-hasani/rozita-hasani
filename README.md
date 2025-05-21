@@ -8,7 +8,7 @@ I'm a passionate Frontend Developer with a strong background in building respons
 
 - **Languages and Markups:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries:** React, Next.js, Vue.js, Material UI, Tailwind CSS, MapLibre, Shadcn/UI
-- **Tools:** Git, GitHub, GitLab, WebStorm, VS Code
+- **Tools:** Git, GitHub, GitLab
 - **Methodologies:** Agile, Scrum, Gitflow
 - **Design:** UI/UX, Responsive Design, PWA
 
