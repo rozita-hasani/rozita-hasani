@@ -1,23 +1,23 @@
 # Hi there, I'm Rozita Hasani 👋
 
-### 💻 Frontend Developer
+### 💻 Full Stack Developer
 
-I'm a passionate Frontend Developer with a strong background in building responsive and user-friendly web applications. I have experience working with JavaScript, TypeScript, Next.js, and React, and I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+A Full Stack Developer with 3+ years of experience delivering web applications across fleet management, route optimization, and messaging domains. Skilled in TypeScript, React, and Next.js, with growing full-stack expertise in AWS and GraphQL. Passionate about building user-facing features with attention to detail, and always excited to learn new things and tackle fresh challenges.
 
 ### 🔧 Technologies & Tools
 
 - **Languages and Markups:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries:** React, Next.js, Vue.js, Material UI, Tailwind CSS, MapLibre, Shadcn/UI
-- **Tools:** Git, GitHub, GitLab
+- **Frameworks/Libraries:** React, Next.js, Vue.js, React Router, TanStack Query, Zustand, React Hook Form, Zod, MapLibre
+- **APIs/Backend:** REST, GraphQL, Strapi
+- **Tools & Cloud:** Git, GitHub, GitLab, Bitbucket, AWS (DynamoDB, S3, AppSync, Cognito), Jest
 - **Methodologies:** Agile, Scrum, Gitflow
-- **Design:** UI/UX, Responsive Design, PWA
+- **Design:** Tailwind CSS, MUI, Shadcn/UI, Flowbite
 
 ### 🌱 What I'm Learning
 
-- Starting my journey with Next.js to build modern, server-side rendered, and SEO-friendly web applications.
-- Diving deeper into TypeScript for more robust and scalable code.
-- Exploring advanced React patterns and state management techniques.
-- Improving my skills in backend integration and API development.
+- Deepening my Next.js knowledge, exploring advanced patterns like server components, streaming, and performance optimization.
+- Advancing my TypeScript skills, focusing on complex type patterns and type-safe architecture.
+- Expanding my backend skills with AWS services and GraphQL API design.
 
 ### 📈 My GitHub Stats
 
