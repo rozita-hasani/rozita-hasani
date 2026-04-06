@@ -19,10 +19,6 @@ A Full Stack Developer with 3+ years of experience delivering web applications a
 - Advancing my TypeScript skills, focusing on complex type patterns and type-safe architecture.
 - Expanding my backend skills with AWS services and GraphQL API design.
 
-### 📈 My GitHub Stats
-
-![Rozita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozita-hasani&show_icons=true&theme=radical)
-
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rozita-hasani)
